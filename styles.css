@@ -1,0 +1,8 @@
+/* GDrive Vault Sync — Obsidian Plugin Styles */
+
+.gdrive-sync-pair {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 16px;
+}
