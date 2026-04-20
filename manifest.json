@@ -3,8 +3,9 @@
   "name": "GDrive Vault Sync",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Sync a local Google Drive folder (mirrored via Google Drive for Desktop) into your Obsidian vault.",
+  "description": "Sync one or more Google Drive folders (mirrored via Google Drive for Desktop) into your Obsidian vault.",
   "author": "Kaleb Garrison",
-  "authorUrl": "",
+  "authorUrl": "https://github.com/kalebgarrison",
+  "fundingUrl": "https://buymeacoffee.com/kalebgarrison",
   "isDesktopOnly": true
 }
